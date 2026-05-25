@@ -1,0 +1,6 @@
+{
+  "name": "TransitLink Ethiopia",
+  "description": "A smart informal transportation discovery platform for African cities like Addis Ababa, helping passengers find nearby minibuses, seat details, and routes.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
